@@ -1,3 +1,3 @@
 # Speech_Broker
 
-Simple trial of google speech API
+Simple trial of Google Speech API
